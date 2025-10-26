@@ -1,4 +1,4 @@
-# FastAPI Auto Parking Lot System App (WIP)
+# FastAPI Backend for Auto Parking Lot System App (WIP)
 This is a FastAPI application that provides functionality for our project.
 
 ## Make sure you have the following installed:
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-เปิด Swagger UI:
+เปิด Swagger UI ที่:
 http://127.0.0.1:8000/docs
 
 
